@@ -1,0 +1,15 @@
+.contenedor-flexible{
+    background-color: aquamarine;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    /*flex-flow: column;*/
+    
+}
+.item-flexible{
+    font-size: 30px;
+    background-color:yellow;
+    margin: 5px;
+    padding: 2px;
+}
